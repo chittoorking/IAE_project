@@ -1,0 +1,10 @@
+There are two folders 
+1.Dialogue Flow
+->In the DialogueFlow folder open the index.html in your local browser and you can start using the sample chatbot .
+
+2.PredictSales
+->The process to get the flask deployment in local host is given in Readme.md
+->You need to install required libraries and run app.py and go the the web UI and give inputs and you will get the outputs
+
+In both the cases sample output images are added in the respective folders
+
